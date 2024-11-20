@@ -7,9 +7,9 @@ Hi, I'm Sonia!
 ## Projects
 In this section I will list data analytics projects briefly explaining what I did for each one.
 ### Google Sheets
-This is the data set I received : https://docs.google.com/spreadsheets/d/1tWardfHTrYDNP5P5use8hLR36Dy5OSYCdKDfrOZz_qc/edit?gid=0#gid=0\
+Project 1: 
 
-My goal was to 
+
 
 
 
