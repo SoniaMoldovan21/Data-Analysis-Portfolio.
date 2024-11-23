@@ -15,7 +15,7 @@ In this section I will list data analytics projects briefly explaining what I di
     - Created tables showcasing user retention rate.
 
 ### SQL
-  Project 1 : 
+  Project 1 : Project 1 SQL.sql
   
     
 
