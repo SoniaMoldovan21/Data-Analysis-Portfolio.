@@ -15,7 +15,8 @@ In this section I will list data analytics projects briefly explaining what I di
     - Created tables showcasing user retention rate.
 
 ### SQL
-  Project 1 : Project 1 SQL.sql
+  Project 1 : https://github.com/SoniaMoldovan21/Data-Analysis-Portfolio./blob/e34cce1319bb8577b0f2d2e049f21908f2ee3d6c/Project%201%20SQL.sql
+
   
     
 
