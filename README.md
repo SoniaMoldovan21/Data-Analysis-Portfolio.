@@ -31,7 +31,7 @@ In this section I will list data analytics projects briefly explaining what I di
   - Project 2: https://public.tableau.com/views/Project2_17324638664070/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
       - fgsw
       - The left graph shows how many of
-  - Project 3:
+  - Project 3: https://public.tableau.com/views/Project3_17324645476660/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 ### Google Looker Studio
   - Project: https://lookerstudio.google.com/reporting/cada3a3b-3f51-4184-9edc-114cf16bb3d6
       - fewg  
