@@ -16,8 +16,8 @@ In this section I will list data analytics projects briefly explaining what I di
 
 ### SQL
   Project 1 : https://github.com/SoniaMoldovan21/Data-Analysis-Portfolio./blob/e34cce1319bb8577b0f2d2e049f21908f2ee3d6c/Project%201%20SQL.sql
-    -
-    -
+    - fhfjiegrrrrrrr fwwwwwwww gwrrrrrrrrrr gwrrrrr
+    - gewgw gwrrrrrrr greeeee gerrrrrrrr gerrrrrr
   Project 2 : https://github.com/SoniaMoldovan21/Data-Analysis-Portfolio./blob/50a78594de28f893cd3abf15cf3aea479e49a283/Project%202%20SQL.sql
 
   
