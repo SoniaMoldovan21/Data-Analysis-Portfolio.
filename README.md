@@ -1,3 +1,4 @@
+
 # Data-Analysis-Portfolio.
 This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics.
 ## About
@@ -19,17 +20,21 @@ In this section I will list data analytics projects briefly explaining what I di
       - Created a temporary function that extracts the name of the ad campaign from a URL.
       - Used functions to manipulate strings, find matches, and combine multiple tables.
       - Utilized conditional statements and performed logical operations to deal with missing data according to specified conditions.
-  - Project 2 : https://github.com/SoniaMoldovan21/Data-Analysis-Portfolio./blob/50a78594de28f893cd3abf15cf3aea479e49a283/Project%202%20SQL.sql
+  - Project 2: https://github.com/SoniaMoldovan21/Data-Analysis-Portfolio./blob/50a78594de28f893cd3abf15cf3aea479e49a283/Project%202%20SQL.sql
       - Using the same CTE from the previous project I added the first day of the month from the date when the ad was displayed.
       - For every campaign I created a new field in each month that shows the difference between CPM, CTR, and ROMI in the current month compared to the previous month in percentage.
 ### Tableau 
-  - Project 1 : https://public.tableau.com/views/Project1_17324639274970/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+  - Project 1: https://public.tableau.com/views/Project1_17324639274970/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
       - The table in the middle represents a cohort analysis of  monthly revenue from users.
       - The left graph shows the change in total revenue as a percentage relative to the previous month.
       - The bottom right graph shows the sum of revenue received from new users during the calendar month when they became paying.
-  - Project 2 : https://public.tableau.com/views/Project2_17324638664070/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+  - Project 2: https://public.tableau.com/views/Project2_17324638664070/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
       - fgsw
-      - The left graph shows how many of 
+      - The left graph shows how many of
+  - Project 3:
+### Google Looker Studio
+  - Project: https://lookerstudio.google.com/reporting/cada3a3b-3f51-4184-9edc-114cf16bb3d6
+      - fewg  
    
   
     
