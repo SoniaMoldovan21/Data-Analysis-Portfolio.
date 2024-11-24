@@ -14,12 +14,17 @@ In this section I will list data analytics projects briefly explaining what I di
     - Used linear regression to predict values and created graphs.
     - Created tables showcasing user retention rate.
 
-### SQL
-  Project 1 : https://github.com/SoniaMoldovan21/Data-Analysis-Portfolio./blob/e34cce1319bb8577b0f2d2e049f21908f2ee3d6c/Project%201%20SQL.sql
-    - fhfjiegrrrrrrr fwwwwwwww gwrrrrrrrrrr gwrrrrr
-    - gewgw gwrrrrrrr greeeee gerrrrrrrr gerrrrrr
-  Project 2 : https://github.com/SoniaMoldovan21/Data-Analysis-Portfolio./blob/50a78594de28f893cd3abf15cf3aea479e49a283/Project%202%20SQL.sql
-
+### SQL ( All of the data from these projects was extracted from a database provided by GoIt Romania ) 
+  - Project 1: https://github.com/SoniaMoldovan21/Data-Analysis-Portfolio./blob/e34cce1319bb8577b0f2d2e049f21908f2ee3d6c/Project%201%20SQL.sql
+      - Created a temporary function that extracts the name of the ad campaign from a url.
+      - Used functions to manipulate strings, find matches, and combine multiple tables.
+      - Utilized conditional statements and performed logical operations to deal with missing data according to specified conditions.
+  - Project 2 : https://github.com/SoniaMoldovan21/Data-Analysis-Portfolio./blob/50a78594de28f893cd3abf15cf3aea479e49a283/Project%202%20SQL.sql
+      - Using the same CTE from the previous project I added the first day of the month from the date when the ad was displayed.
+      - For every campaign I created a new field in each month that shows the difference between CPM, CTR, and ROMI in the current month compared to the previous month in percentage.
+### Tableau 
+  - Project 1 :
+    - 
   
     
 
