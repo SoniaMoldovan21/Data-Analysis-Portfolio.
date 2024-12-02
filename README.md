@@ -29,9 +29,11 @@ In this section I will list data analytics projects briefly explaining what I di
       - The left graph shows the change in total revenue as a percentage relative to the previous month.
       - The bottom right graph shows the sum of revenue received from new users during the calendar month when they became paying.
   - Project 2: https://public.tableau.com/views/Project2_17324638664070/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-      - ...
-      - The left graph shows how many of...
+      - The graph in the middle is a heat map containing data on the average time spent in the game, broken down by the age group of players and activity date quarters.
+      - The left graph shows the total number of players and the percentage of total users who spent any amount of time in activities related to the "Battle pass".
+      - The right graph shows the average time per player spent in the game.
   - Project 3: https://public.tableau.com/views/Project3_17324645476660/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+      - The top left chart
 ### Google Looker Studio
   - Project: https://lookerstudio.google.com/reporting/cada3a3b-3f51-4184-9edc-114cf16bb3d6
       - ... 
