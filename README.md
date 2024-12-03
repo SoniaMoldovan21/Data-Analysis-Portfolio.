@@ -33,10 +33,13 @@ In this section I will list data analytics projects briefly explaining what I di
       - The left graph shows the total number of players and the percentage of total users who spent any amount of time in activities related to the "Battle pass".
       - The right graph shows the average time per player spent in the game.
   - Project 3: https://public.tableau.com/views/Project3_17324645476660/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
-      - The top left chart
+      - The top left graph shows the number of paid users and the number of users that got from the registration step to starting their trial each month.
+      - The top right graph is funnel-shaped diagram showing how users progress through each step and how many of them make it to the last one.
+      - The bottom left graph shows on average how many days it takes for registered users to start their trial period per month.
+      - The bottom right graph changes based on the step selected in the funnel-shaped diagram and it shows on average how many days it takes for users to proceed to the next steps after registration per month.
 ### Google Looker Studio
   - Project: https://lookerstudio.google.com/reporting/cada3a3b-3f51-4184-9edc-114cf16bb3d6
-      - ... 
+      - 
    
   
     
