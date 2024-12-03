@@ -31,7 +31,7 @@ In this section I will list data analytics projects briefly explaining what I di
   - Project 2: https://public.tableau.com/views/Project2_17324638664070/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
       - The graph in the middle is a heat map containing data on the average time spent in the game, broken down by the age group of players and activity date quarters.
       - The left graph shows the total number of players and the percentage of total users who spent any amount of time in activities related to the "Battle pass".
-      - The right graph shows the average time per player spent in the game.
+      - The right graph shows how much time players spent playing the game on average every month.
   - Project 3: https://public.tableau.com/views/Project3_17324645476660/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
       - The top left graph shows the number of paid users and the number of users that got from the registration step to starting their trial each month.
       - The top right graph is funnel-shaped diagram showing how users progress through each step and how many of them make it to the last one.
