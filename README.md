@@ -39,7 +39,7 @@ In this section I will list data analytics projects briefly explaining what I di
       - The bottom right graph changes based on the step selected in the funnel-shaped diagram and it shows on average how many days it takes for users to proceed to the next steps after registration per month.
 ### Google Looker Studio
   - Project: https://lookerstudio.google.com/reporting/cada3a3b-3f51-4184-9edc-114cf16bb3d6
-      - 
+      - Created a dashboard in order to monitor marketing campaigns investment and KPI performance. 
    
   
     
