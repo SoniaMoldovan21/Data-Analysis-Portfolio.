@@ -3,10 +3,10 @@
 This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics.
 ## About
 Hi, I'm Sonia!
-  I'm currently seeking new opportunities as a Data Analyist and here is where I would like to present the projects I have worked on so far.
+  I'm currently seeking new opportunities as a Data Analyist or any position where my skills are useful in a remote setting. and here is where I would like to present the projects I have worked on so far.
 
 ## Projects
-In this section I will list data analytics projects briefly explaining what I did for each one.
+In this section I will list data analytics projects briefly explaining what I worked on for each one.
 ### Google Sheets
   - Project 1: https://docs.google.com/spreadsheets/d/1t7Bh5xxSYAe_CEy7jLbcuJJXac4E6_NlUkJtuQH8CD4/edit?usp=sharing- 
     -  Calculated product metrics and evaluating the effectiveness of user acquisition spend.
