@@ -2,7 +2,7 @@
 # Data-Analysis-Portfolio.
 This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics.
 ## About
-Hi, I'm Sonia!
+Hi, my name is Sonia!
   I'm currently seeking new opportunities as a Data Analyist or any position where my skills are useful in a remote setting. and here is where I would like to present the projects I have worked on so far.
 
 ## Projects
